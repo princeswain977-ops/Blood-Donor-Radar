@@ -1,1 +1,3 @@
-
+git rm src/blooddonorradar
+git commit -m "Remove incorrect placeholder file"
+git push origin main
